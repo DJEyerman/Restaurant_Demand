@@ -5,12 +5,13 @@ The primary objective of this data analytics project was to enhance the customer
 
 
 ## Data Sources:
-    • Order Records: Collect detailed information about each food order, including timestamp, order ID, customer details, 
-    restaurant details, order items, quantity, and total cost.
-    • Delivery Logistics: Capture data related to the delivery process, including delivery times, delivery personnel 
-    details, and any delays or issues encountered during the delivery.
-    • Customer Feedback: Incorporate customer reviews, ratings, and feedback on both the food items and the overall 
-    delivery experience. This qualitative data provides insights into customer satisfaction and areas for improvement.
+    • Order Records: Collect detailed information about each food order, including timestamp, order ID, 
+    customer details, restaurant details, order items, quantity, and total cost.
+    • Delivery Logistics: Capture data related to the delivery process, including delivery times, 
+    delivery personnel details, and any delays or issues encountered during the delivery.
+    • Customer Feedback: Incorporate customer reviews, ratings, and feedback on both the food 
+    items and the overall delivery experience. This qualitative data provides insights into 
+    customer satisfaction and areas for improvement.
 
 
 ## Exploratory Data Analysis (EDA): 
@@ -90,9 +91,10 @@ The visual prowess of histograms is employed to illuminate the distribution of r
         ◦ Average of 24 minutes to prepare an order
         ◦ Average 27 minutes to deliver it
     • 60% of delivery customers say timeliness is a key factor to their satisfaction 
-    • The cuisine type with longest time to prepare and deliver an order are the same as the ones getting 
-    the most orders
-    • If there are repeat customers, they usually repeat 2 to 4 times with the majority (%69) repeating only 2 times
+    • The cuisine type with longest time to prepare and deliver an order are the same as the ones 
+    getting the most orders
+    • If there are repeat customers, they usually repeat 2 to 4 times with the majority (%69)
+    repeating only 2 times
     
 
 ## Recommendations:
