@@ -1,4 +1,4 @@
-# Restaurant Delivery & Satisfaction 
+# Restaurant Delivery & Satisfaction Project
 
 ## Objective:
 The primary objective of this data analytics project was to enhance the customer experience in online food ordering by optimizing delivery operations. This involved conducting delivery analytics to ensure efficient staff availability, monitor key performance indicators (KPIs), and perform in-depth analysis of customer behavior and restaurant characteristics.
