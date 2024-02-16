@@ -52,8 +52,7 @@ Data preprocessing is typically conducted to handle and mitigate issues such as 
 In Tableau, a dynamic and user-friendly restaurant and customer dashboard was created, bringing together crucial insights into revenue, profits, and restaurant ratings. The dashboard seamlessly integrates financial metrics, providing a real-time overview of revenue and profits, and incorporates customer ratings to gauge overall satisfaction. Through interactive visualizations, stakeholders can easily track performance trends, make data-driven decisions, and enhance the overall customer experience in the cuisines and restaurants.
 
 
-![Dashboard](https://github.com/DJEyerman/Restaurant_Demand/assets/38670302/50803dcf-6ca8-48a5-b19a-a7ddbd32594d)
-
+![Dashboard](https://github.com/DJEyerman/Restaurant_Demand/assets/38670302/4002b300-fcc1-4a50-8e4e-1a2c53b02caf)
 
 ## Visualization and Metrics Comparison in Python:
 
